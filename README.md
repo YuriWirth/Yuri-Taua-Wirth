@@ -8,7 +8,7 @@
 -----------------------------------------------------------------------------------
 <br> -O que está estudando atualmente📚  Aprendendo front e back end.
 <br> -Hobbies: Gosto muito de jogar,praticar atividades fisicas e socializar 
-<br> -Experiências profissionais : Suporte tecnico em empresar de internet.
+<br> -Experiências profissionais : Suporte tecnico em empresa de internet.
 <br> -Linguagem de Programação favorita : Sem preferencia definida.
 
 
